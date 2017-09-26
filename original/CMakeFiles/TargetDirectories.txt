@@ -1,0 +1,6 @@
+/home/cristina/Universidad Cuarto/Robotica/Sesion1/original/CMakeFiles/install.dir
+/home/cristina/Universidad Cuarto/Robotica/Sesion1/original/CMakeFiles/list_install_components.dir
+/home/cristina/Universidad Cuarto/Robotica/Sesion1/original/CMakeFiles/ejemplo1.dir
+/home/cristina/Universidad Cuarto/Robotica/Sesion1/original/CMakeFiles/install/local.dir
+/home/cristina/Universidad Cuarto/Robotica/Sesion1/original/CMakeFiles/rebuild_cache.dir
+/home/cristina/Universidad Cuarto/Robotica/Sesion1/original/CMakeFiles/edit_cache.dir
